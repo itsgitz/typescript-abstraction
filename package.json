@@ -1,0 +1,13 @@
+{
+  "name": "typescript-abstraction",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/itsgitz/typescript-abstraction.git",
+  "author": "Anggit M Ginanjar",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2"
+  }
+}
